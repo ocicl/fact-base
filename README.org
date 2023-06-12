@@ -1,0 +1,10 @@
+* fact-base
+
+Implementation of fact bases for Common Lisp
+
+|---------+-------------------------------------------|
+| source  | git:https://github.com/inaimathi/fact-base.git   |
+| commit  | fb7e299  |
+| systems | fact-base |
+|---------+-------------------------------------------|
+
